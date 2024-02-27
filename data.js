@@ -1,0 +1,32 @@
+export const data = [
+  {
+    id: 1,
+    channelName: "Gojo",
+    uri: "https://v.pinimg.com/videos/mc/720p/f6/88/88/f68888290d70aca3cbd4ad9cd3aa732f.mp4",
+    caption: "no cap",
+    musicName: "Song 1",
+    likes: 1,
+    comments: 2,
+    avatarUri: "https://wallpaperaccess.com/full/1669289.jpg",
+  },
+  {
+    id: 2,
+    channelName: "Sukuna",
+    uri: "https://v.pinimg.com/videos/mc/720p/f6/88/88/f68888290d70aca3cbd4ad9cd3aa732f.mp4",
+    caption: "no cap",
+    musicName: "Song 2",
+    likes: 3,
+    comments: 4,
+    avatarUri: "https://wallpaperaccess.com/full/1669289.jpg",
+  },
+  {
+    id: 3,
+    channelName: "Itadori",
+    uri: "https://v.pinimg.com/videos/mc/720p/f6/88/88/f68888290d70aca3cbd4ad9cd3aa732f.mp4",
+    caption: "no cap",
+    musicName: "Song 1",
+    likes: 5,
+    comments: 6,
+    avatarUri: "https://wallpaperaccess.com/full/1669289.jpg",
+  },
+];
